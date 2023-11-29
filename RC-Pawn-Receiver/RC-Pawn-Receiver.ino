@@ -4,10 +4,10 @@
 #include <nRF24L01.h>
 #include <RF24.h>
 
-#define enA 2   // Note: Pin 9 in previous video ( pin 10 is used for the SPI communication of the NRF24L01)
+#define enA 2  
 #define in1 4
 #define in2 5
-#define enB 3   // Note:  Pin 10 in previous video
+#define enB 3   
 #define in3 6
 #define in4 7
 
